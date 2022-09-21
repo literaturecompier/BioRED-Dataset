@@ -1,0 +1,39 @@
+14510914|t|Congenital hypothyroidism due to a new deletion in the sodium/iodide symporter protein.
+14510914|a|OBJECTIVE: Iodide transport defect (ITD) is a rare disorder characterised by an inability of the thyroid to maintain an iodide gradient across the basolateral membrane of thyroid follicular cells, that often results in congenital hypothyroidism. When present the defect is also found in the salivary glands and gastric mucosa and it has been shown to arise from abnormalities of the sodium/iodide symporter (NIS). PATIENT: We describe a woman with hypothyroidism identified at the 3rd month of life. The diagnosis of ITD was suspected because of nodular goitre, and little if any iodide uptake by the thyroid and salivary glands. Treatment with iodide partially corrected the hypothyroidism; however, long-term substitution therapy with L-thyroxine was started. MEASUREMENTS: Thyroid radioiodide uptake was only 1.4% and 0.3% at 1 and 24 h after the administration of recombinant human TSH. The saliva to plasma I- ratio was 1.1 indicating that the inability of the thyroid gland to concentrate I- was also present in the salivary glands. RESULTS: Analysis of the patient's NIS gene revealed a 15 nucleotide (nt) deletion of the coding sequence (nt 1314 through nt 1328) and the insertion of 15 nt duplicating the first 15 nt of the adjacent intron. The patient was homozygous for this insertion/deletion, while both consanguineous parents were heterozygous. This deletion predicts the production of a protein lacking the five terminal amino acids of exon XI (439-443) which are located in the 6th intracellular loop. COS-7 cells transfected with a vector expressing the mutant del-(439-443) NIS failed to concentrate iodide, suggesting that the mutation was the direct cause of the ITD in this patient. CONCLUSION: In conclusion we describe the first Italian case of congenital hypothyroidism due to a new deletion in the NIS gene.
+14510914	0	25	Congenital hypothyroidism	DiseaseOrPhenotypicFeature	D003409
+14510914	55	78	sodium/iodide symporter	GeneOrGeneProduct	6528
+14510914	99	122	Iodide transport defect	DiseaseOrPhenotypicFeature	C564766
+14510914	124	127	ITD	DiseaseOrPhenotypicFeature	C564766
+14510914	168	192	inability of the thyroid	DiseaseOrPhenotypicFeature	D050033
+14510914	208	214	iodide	ChemicalEntity	D007454
+14510914	307	332	congenital hypothyroidism	DiseaseOrPhenotypicFeature	D003409
+14510914	471	494	sodium/iodide symporter	GeneOrGeneProduct	6528
+14510914	496	499	NIS	GeneOrGeneProduct	6528
+14510914	502	509	PATIENT	OrganismTaxon	9606
+14510914	525	530	woman	OrganismTaxon	9606
+14510914	536	550	hypothyroidism	DiseaseOrPhenotypicFeature	D007037
+14510914	605	608	ITD	DiseaseOrPhenotypicFeature	C564766
+14510914	634	648	nodular goitre	DiseaseOrPhenotypicFeature	D020518
+14510914	668	674	iodide	ChemicalEntity	D007454
+14510914	733	739	iodide	ChemicalEntity	D007454
+14510914	764	778	hypothyroidism	DiseaseOrPhenotypicFeature	D007037
+14510914	825	836	L-thyroxine	ChemicalEntity	D013974
+14510914	872	883	radioiodide	ChemicalEntity	D007454
+14510914	968	973	human	OrganismTaxon	9606
+14510914	974	977	TSH	GeneOrGeneProduct	7200
+14510914	1000	1002	I-	ChemicalEntity	D007454
+14510914	1083	1085	I-	ChemicalEntity	D007454
+14510914	1152	1159	patient	OrganismTaxon	9606
+14510914	1162	1165	NIS	GeneOrGeneProduct	6528
+14510914	1201	1258	deletion of the coding sequence (nt 1314 through nt 1328)	SequenceVariant	c|DEL|1314_1328|
+14510914	1267	1310	insertion of 15 nt duplicating the first 15	SequenceVariant	c|DUP||15
+14510914	1342	1349	patient	OrganismTaxon	9606
+14510914	1498	1556	lacking the five terminal amino acids of exon XI (439-443)	SequenceVariant	p|DEL|439_443|
+14510914	1606	1611	COS-7	CellLine	CVCL_0224
+14510914	1666	1679	del-(439-443)	SequenceVariant	p|DEL|439_443|
+14510914	1680	1683	NIS	GeneOrGeneProduct	6528
+14510914	1706	1712	iodide	ChemicalEntity	D007454
+14510914	1771	1774	ITD	DiseaseOrPhenotypicFeature	C564766
+14510914	1783	1790	patient	OrganismTaxon	9606
+14510914	1856	1881	congenital hypothyroidism	DiseaseOrPhenotypicFeature	D003409
+14510914	1911	1914	NIS	GeneOrGeneProduct	6528
